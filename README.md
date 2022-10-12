@@ -1,6 +1,6 @@
 # listadetarefas
 
-A new Flutter project.
+Aplicativo de lista de tarefas, que contem persistência de dados em dart.
 
 ## Getting Started
 
